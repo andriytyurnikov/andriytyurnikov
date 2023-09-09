@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Andriy Tyurnikov 
 
-## I am  a web developer from Ukraine :ukraine:
+## I am a :man_technologist: web developer from Ukraine :ukraine:
 
 | :globe_with_meridians: enthusiastic about web: | :heart_on_fire: ... & tech: |
 | --- | --- |
