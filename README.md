@@ -1,5 +1,3 @@
-<style> table { width: 100%; } </style>
-
 # Hi there 👋 my name is Andriy Tyurnikov 
 
 ## I am  a web developer from Ukraine :ukraine:
