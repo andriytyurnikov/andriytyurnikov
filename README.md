@@ -1,20 +1,14 @@
-# Hi there 👋
+# Hi there 👋 My name is Andriy Tyurnikov 
 
-## My name is Andriy Tyurnikov 
 ## I am  a web developer from Ukraine :ukraine:
 
-## :globe_with_meridians: very enthusiastic about web, and especially:
-- :godmode: frontend 
-- :feelsgood: backend
-- :zap: performance 
-- :iphone: mobile 
-- :chains: web<sup>3</sup>
-
-## :heart_on_fire: Beloved tech:
-- SvelteKit
-- Ruby On Rails
-- TailwindCSS
-- Vyper
+| ## :globe_with_meridians: enthusiastic about web: | ## :heart_on_fire: ... & tech: |
+| --- | --- |
+| - :godmode: frontend | - :penguin:	SvelteKit |
+| - :feelsgood: backend | - - :gem: Ruby On Rails |
+| - :zap: performance | - :aquarius: TailwindCSS |
+| - :iphone: mobile | - :small_red_triangle: Avalanche |
+| - :chains: web<sup>3</sup> | - :snake: Vyper |
 
 <!--
 **andriytyurnikov/andriytyurnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
