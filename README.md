@@ -1,8 +1,4 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
+<style> table { width: 100%; } </style>
 
 # Hi there 👋 my name is Andriy Tyurnikov 
 
