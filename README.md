@@ -10,7 +10,7 @@
 - :iphone: mobile 
 - :chains: web<sup>3</sup>
 
-#@ :heart_on_fire: Beloved tech:
+## :heart_on_fire: Beloved tech:
 - SvelteKit
 - Ruby On Rails
 - TailwindCSS
