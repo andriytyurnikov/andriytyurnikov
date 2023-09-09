@@ -1,8 +1,14 @@
-# Hi there 👋 My name is Andriy Tyurnikov 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
+# Hi there 👋 my name is Andriy Tyurnikov 
 
 ## I am  a web developer from Ukraine :ukraine:
 
-| ## :globe_with_meridians: enthusiastic about web: | ## :heart_on_fire: ... & tech: |
+| :globe_with_meridians: enthusiastic about web: | :heart_on_fire: ... & tech: |
 | --- | --- |
 | - :godmode: frontend | - :penguin:	SvelteKit |
 | - :feelsgood: backend | - - :gem: Ruby On Rails |
