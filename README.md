@@ -2,11 +2,12 @@
 
 ## I am a :man_technologist: web developer from Ukraine :ukraine:
 
-| :globe_with_meridians: enthusiastic about web: | :heart_on_fire: ... & tech: |
+### enthusiastic about web :globe_with_meridians: and related tech :heart_on_fire:
+|  |  |
 | --- | --- |
-| :godmode: frontend | :aquarius: Tailwind, :penguin:	Svelte |
-| :feelsgood: backend | :gem: Ruby On Rails, :penguin: SvelteKit |
-| :chains: web<sup>3</sup> | :snake: Vyper, :small_red_triangle: Avalanche |
+|  :godmode: frontend  |  :aquarius: Tailwind, :penguin:	Svelte  |
+|  :feelsgood: backend  |  :gem: Ruby On Rails, :penguin: SvelteKit  |
+|  :chains: web<sup>3</sup>  |  :snake: Vyper, :small_red_triangle: Avalanche  |
 
 <!--
 **andriytyurnikov/andriytyurnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
