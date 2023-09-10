@@ -7,7 +7,7 @@
 | --- | --- |
 |  :godmode: frontend  |  :aquarius: Tailwind, :penguin:	Svelte  |
 |  :feelsgood: backend  |  :gem: Ruby On Rails, :penguin: SvelteKit  |
-|  :chains: web<sup>3</sup>  |  :snake: Vyper, :small_red_triangle: Avalanche  |
+|  :chains: web<sup>3</sup>  |  :snake: Vyper, :small_red_triangle: Avalanche, :monkey: ApeWorX  |
 
 <!--
 **andriytyurnikov/andriytyurnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
