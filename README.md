@@ -9,6 +9,8 @@
 |  :feelsgood: backend  |  :gem: Ruby On Rails, :penguin: SvelteKit  |
 |  :chains: web<sup>3</sup>  |  :snake: Vyper, :small_red_triangle: Avalanche, :monkey: ApeWorX  |
 
+BTW. My we site is [andriytyurnikov.me](https://andriytyurnikov.me)
+
 <!--
 **andriytyurnikov/andriytyurnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
