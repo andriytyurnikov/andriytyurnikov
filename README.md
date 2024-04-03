@@ -6,7 +6,7 @@
 |  |  |
 | --- | --- |
 |  :godmode: frontend  |  :aquarius: Tailwind, :penguin:	Svelte  |
-|  :feelsgood: backend  |  :gem: Ruby On Rails, :penguin: SvelteKit  |
+|  :feelsgood: backend  |  :gem: Ruby (On/Off Rails), :penguin: SvelteKit  |
 |  :chains: web<sup>3</sup>  |  :snake: Vyper, :small_red_triangle: Avalanche, :monkey: ApeWorX  |
 
 BTW. My web site is [andriytyurnikov.me](https://andriytyurnikov.me)
